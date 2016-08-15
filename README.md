@@ -20,6 +20,6 @@ PORT=3000 go run *.go
 - [ ] add UPDATE & DELETE routes.
 - [ ] add a database to save the data.
 - [ ] add JWT auth.
-- [ ] Dockerize.
-- [ ] Separate helpers & utils into packages.
-- [ ] Add tests.
+- [ ] dockerize.
+- [ ] separate helpers & utils into packages.
+- [ ] add tests.
